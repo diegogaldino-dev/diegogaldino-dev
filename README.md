@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Frontend Developer graduated in Analysis in Systems Development, passionate about web development, I am always in search of new knowledge. :rocket:
 
-🌱 I’m currently learning - React, NodeJs and Nextjs
+🌱 I’m currently learning - React, Typescript, NodeJs and Nextjs
 
 <br/>
 

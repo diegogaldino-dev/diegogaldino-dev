@@ -19,15 +19,18 @@ Here are some ideas to get you started:
 
 Frontend Developer graduated in Analysis in Systems Development, passionate about web development, I am always in search of new knowledge. :rocket:
 
-🌱 I’m currently learning - React, Typescript, NodeJs and Nextjs
+🌱 I’m currently learning - JavaScript
 
 <br/>
+[<a href="#" onclick="return false;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogaldino-dev&theme=tokyonight&count_private=true&hide=jupyter%20notebook,asp,css&langs_count=10" />
+</a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegogaldino-dev)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#" onclick="return false;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegogaldino-dev&show_icons=true&theme=tokyonight&line_height=27&count_private=true&hide_rank=true" alt="diegogaldino-dev's github stats" />
+</a>
+<br>
 
 **Languages and Tools  :pushpin:**
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="23"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="23">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="23">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="23">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="23">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="23"> 

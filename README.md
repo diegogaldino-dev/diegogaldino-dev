@@ -22,7 +22,7 @@ Frontend Developer graduated in Analysis in Systems Development, passionate abou
 🌱 I’m currently learning - JavaScript
 
 <br/>
-[<a href="#" onclick="return false;">
+<a href="#" onclick="return false;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogaldino-dev&theme=tokyonight&count_private=true&hide=jupyter%20notebook,asp,css&langs_count=10" />
 </a>
 

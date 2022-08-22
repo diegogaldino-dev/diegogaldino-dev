@@ -13,24 +13,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello, I'm Diego :vulcan_salute:
+## Oi! Eu sou o Diego Galdino :vulcan_salute:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/diego-galdino-7825a9172/)](https://www.linkedin.com/in/diego-galdino-7825a9172/) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=55+11+946438748&text=Hello!)
 
 
-Frontend Developer graduated in Analysis in Systems Development, passionate about web development, I am always in search of new knowledge. :rocket:
+Frontend Developer graduated in Analysis in Systems Development
 
-🌱 I’m currently learning - JavaScript
+🌱 I’m currently learning - TypeScript</br>
+😄 Pronouns: ele/dele
 
 <br/>
-<a href="#" onclick="return false;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogaldino-dev&theme=tokyonight&count_private=true&hide=jupyter%20notebook,asp,css&langs_count=10" />
-</a>
+<div>
+  <a href"https://github.com/diegogaldino-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegogaldino-dev&show_icons=true&theme=dark&iclude_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogaldino-dev&layout=compact&langs_count=16&theme=dark" />
 
-<a href="#" onclick="return false;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegogaldino-dev&show_icons=true&theme=tokyonight&line_height=27&count_private=true&hide_rank=true" alt="diegogaldino-dev's github stats" />
-</a>
+</div>
+
 <br>
 
-**Languages and Tools  :pushpin:**
+<div style="display: inline_block"><br>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img aling="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img aling="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img aling="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img aling="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img aling="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img aling="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img aling="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img aling="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />  
+</div>
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="23"> 
+##
+
+<div>
+![Snake animation](https://github.com/diegogaldino-dev/diegogaldino-dev/blob/output/github-contribution-grid-snake.svg)
+</div>

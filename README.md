@@ -47,5 +47,4 @@ Frontend Developer graduated in Analysis in Systems Development
 ##
 
 
-![Snake animation](https://github.com/diegogaldino-dev/diegogaldino-dev/blob/output/github-contribution-grid-snake.svg)
 

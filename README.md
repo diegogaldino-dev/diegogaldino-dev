@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/diego-galdino-7825a9172/)](https://www.linkedin.com/in/diego-galdino-7825a9172/) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=55+11+946438748&text=Hello!)
 
 
-Frontend Developer graduated in Analysis in Systems Development
+Frontend Developer
+
+🎓graduated in Analysis in Systems Development
 
 🌱 I’m currently learning - TypeScript</br>
 😄 Pronouns: ele/dele

@@ -21,7 +21,7 @@ Frontend Developer
 
 🎓graduated in Analysis in Systems Development
 
-🌱 I’m currently learning - TypeScript</br>
+🌱 I’m currently learning - Reactjs</br>
 😄 Pronouns: ele/dele
 
 <br/>

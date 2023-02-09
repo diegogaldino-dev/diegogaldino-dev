@@ -28,6 +28,10 @@ Frontend Developer
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=diegogaldino-dev"/>
 </div>
+<br/>
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogaldino-dev&layout=compact"/>
+</div>
 
 <br>
 

@@ -25,12 +25,9 @@ Frontend Developer
 😄 Pronouns: ele/dele
 
 <br/>
-  <a href="https://github.com/diegogaldino-dev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegogaldino-dev&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/diegogaldino-dev/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=diegogaldino-dev&repo=convoychat" />
-</a>
+ <div>
+ <img src="https://github-readme-stats.vercel.app/api?username=diegogaldino-dev&show_icons=true&theme=transparent"/>
+ </div>
 
 <br>
 

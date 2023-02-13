@@ -55,7 +55,7 @@ Frontend Developer
 </h2>
  <div align = "center">
  <img src="https://github-readme-stats.vercel.app/api?username=diegogaldino-dev&show_icons=true&theme=dark"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogaldino-dev&layout=compact&theme=dark" width="415px" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogaldino-dev&layout=compact&theme=dark" />
  </div>
 <br/>
 <br/>
